@@ -1,0 +1,3 @@
+24/01/2001	11:06	Coen Vermaak	Analise then lastlog.txt	User Wait
+24/01/2001	16:13	EQS Upload	The Routine to flag a quote as READY for upload is not working ?	Urgent
+23/01/2001	12:47	Coen Vermaak	Get the EQSloaderLOGGER.exe installed and tested on the PC	Urgent
